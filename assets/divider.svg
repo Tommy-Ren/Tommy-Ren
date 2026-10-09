@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="">
+<title></title><style>
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style><defs><linearGradient id="line"><stop stop-color="#080e1c" stop-opacity="0"/><stop offset=".3" stop-color="#65e5ff"/><stop offset=".7" stop-color="#b39aff"/><stop offset="1" stop-color="#080e1c" stop-opacity="0"/></linearGradient></defs><path d="M 0 12 H 1200" stroke="url(#line)" stroke-opacity=".5"/><path d="M 590 12 L 600 6 L 610 12 L 600 18 Z" fill="#65e5ff"/></svg>
